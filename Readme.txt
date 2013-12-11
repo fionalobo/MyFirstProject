@@ -1,1 +1,1 @@
-Hello
+This is my first Github Project, refered to "GitHub For Beginners: Don't Get Scared, Get Started" by Lauren Orsini
